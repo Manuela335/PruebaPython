@@ -1,0 +1,14 @@
+{
+    "21": {
+        "paciente": "dd",
+        "motivoConsulta": "dd",
+        "fecha": "3172023",
+        "hora": "10"
+    },
+    "35": {
+        "paciente": "dd",
+        "motivoConsulta": "ff",
+        "fecha": "1882023",
+        "hora": "12"
+    }
+}
